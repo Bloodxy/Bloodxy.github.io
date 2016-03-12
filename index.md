@@ -1,22 +1,17 @@
----
-title: "Úvod"
+﻿---
 layout: default
+title: "Úvod"
 ---
+# Čaute! Vítajte na mojej stránke :)
 
-<div class="blurb">
-			<h1>Čaute! Vítajte na mojej stránke :)</h1>
-			
-			<p>Volám sa Ivan Gulis a táto stránka je mojím developerským profilom.</p>
-			
-			<p>Nájdete tu:<p>
-			
-			> <strong>1.</strong> Stručné info o mne (<a href="/O mne">O mne</a>)
-	
-			> <strong>2.</strong> Môj krátky životopis (<a href="/Zivotopis">Môj životopis</a>)
+Volám sa Ivan Gulis a táto stránka je mojím developerským profilom.
 
-			> <strong>3.</strong> Moje projekty, ktoré som za svoje štúdium vypracoval (<a href="/Projekty">Moje projekty</a>)
-	
-			> <strong>4.</strong> Moje záujmy a koníčky, ktorým sa venujem vo voľnom čase (<a href="/Zaujmy">Moje záujmy</a>)
-</div> 
+Nájdete tu:
 
+> **1.** Stručné info o mne ([O mne](/O mne))
 
+> **2.** Môj krátky životopis ([Môj životopis](/Zivotopis))
+
+> **3.** Moje projekty, ktoré som za svoje štúdium vypracoval ([Moje projekty](/Projekty))
+
+> **4.** Moje záujmy a koníčky, ktorým sa venujem vo voľnom čase ([Moje záujmy](/Zaujmy))

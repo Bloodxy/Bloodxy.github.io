@@ -1,6 +1,6 @@
 ---
-title: "O mne"
 layout: default
+title: "O mne"
 ---
 
 # {{ page.title }}
