@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Projekty"
 layout: default
 ---
