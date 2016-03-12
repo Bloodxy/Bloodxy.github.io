@@ -1,6 +1,6 @@
-﻿---
-title: "Životopis"
+---
 layout: default
+title: "Životopis"
 ---
 
 # {{ page.title }}
