@@ -1,9 +1,9 @@
 ---
-title: "Úvod"
+title: "Čaute! Vítajte na mojej stránke :)"
 layout: default
 ---
 
-# Čaute! Vítajte na mojej stránke :)
+# {{ page.title }}
 
 Volám sa Ivan Gulis a táto stránka je mojím developerským profilom.
 
