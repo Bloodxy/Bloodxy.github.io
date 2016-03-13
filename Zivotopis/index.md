@@ -55,4 +55,6 @@ Stiahnuteľná verzia: [(stiahnuť PDF)]({{ site.url }}{{ page.pdf }})
 **Záujmy a záľuby**
 
 |---|
-| filmy, počítačové hry, varenie |
+| PC hry, manga(komix), hudba. varenie |
+
+.
