@@ -1,8 +1,11 @@
 ---
 layout: default
 title: "O mne"
+obrazok: "/obrazky/ine/ja.jpg"
 ---
 # {{ page.title }}
+
+<img src="{{ site.url }}{{ page.obrazok }}" alt="Moja fotka">
 
 Volám sa Ivan Gulis. Mám 22 rokov a som z Bratislavy. Moja online prezývka je Bloody (alebo Bloodxy).
 Študujem na Slovenskej technickej univerzite, fakulta informatiky a informačných technológii, 6. semester.

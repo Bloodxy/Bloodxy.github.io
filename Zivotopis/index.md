@@ -1,49 +1,58 @@
 ---
 layout: default
 title: "Životopis"
+pdf: "/dokumenty/zivotopis.pdf"
 ---
 
 # {{ page.title }}
 
-Osobné údaje:
+Stiahnuteľná verzia: [(stiahnuť PDF)]({{ site.url }}{{ page.pdf }})
 
-Meno a priezvisko: Ivan Gulis
-Adresa: Mierová 28 821 05 Bratislava
-Telefón: 0948976571
-E-mail: gulis2505@gmail.com
-Dátum: narodenia 25.05.1993
+**Osobné údaje**
 
-Vzdelanie:
+|---|--:|
+| Meno a priezvisko | Ivan Gulis |
+| Adresa | Mierová 28 821 05 Bratislava |
+| Telefón | 0948976571 |
+| E-mail | gulis2505@gmail.com |
+| Dátum narodenia | 25.05.1993 |
 
-2009 - 2013 Gymnázium Ladislava Novomeského
-Tomášiková 2, Bratislava 
-Odbor: Informatika 
+**Vzdelanie**
 
-2013+ Slovenská technická univerzita
-Ilkovičova 2, Bratislava 
-Odbor: Informatika
-Fakulta informatika a informačných technológii
+|---|
+| 2009 - 2013 Gymnázium Ladislava Novomeského | 
+| Tomášiková 2, Bratislava |
+| Odbor: Informatika |
+|   |
+| 2013+ Slovenská technická univerzita |
+| Ilkovičova 2, Bratislava |
+| Odbor: Informatika |
+| Fakulta informatika a informačných technológii |
 
-Schopnosti a znalosti:
+**Schopnosti a znalosti**
 
-Internet (e-mail, www): bežný používateľ
-Microsoft Word: bežný používateľ
-Microsoft Excel: bežný používateľ
-Java: mierne pokročilý
-C: mierne pokročilý
-SQL: mierne pokročilý
-C#: základy
-C++: základy
+|---|--:|
+| Internet (e-mail, www) | bežný používateľ |
+| Microsoft Word | bežný používateľ |
+| Microsoft Excel | bežný používateľ |
+| Java | mierne pokročilý |
+| C | mierne pokročilý |
+| SQL | mierne pokročilý |
+| C# | základy |
+| C++ | základy |
 
-Jazykové znalosti:
+**Jazykové znalosti**
 
-Slovenský jazyk: materinský jazyk
-Anglický jazyk: mierne pokročilý
+|---|--:|
+| Slovenský jazyk | materinský jazyk |
+| Anglický jazyk | mierne pokročilý |
 
-Vodičský preukaz:
+**Vodičský preukaz**
 
-Skupina B
+|---|--:|
+| Skupina | B |
 
-Záujmy a záľuby:
+**Záujmy a záľuby**
 
-filmy, počítačové hry, varenie
+|---|
+| filmy, počítačové hry, varenie |

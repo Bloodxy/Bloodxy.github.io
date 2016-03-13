@@ -2,8 +2,26 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
+
+<img src="{{ site.url }}{{ page.obrazok1 }}" alt="{{ page.alt1 }}">
+
+<p>{{ page.opis1 }}</p>
+
+<img src="{{ site.url }}{{ page.obrazok2 }}" alt="{{ page.alt2 }}">
+
+<p>{{ page.opis2 }}</p>
+
+<img src="{{ site.url }}{{ page.obrazok3 }}" alt="{{ page.alt3 }}">
+
+<p>{{ page.opis3 }}</p>
 
 <div class="post">
   {{ content }}
 </div>
+
+<ol>
+<p>Zdroje obrázkov:</p>
+<li>{{ page.zdroj1 }}</li>
+<li>{{ page.zdroj2 }}</li>
+<li>{{ page.zdroj3 }}</li>
+</ol>
