@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+
+<p><strong>{{ page.opis1 }}</strong></p>
+
+<h2>Rozdelenie:</h2>
+
+<div class="post">
+  {{ content }}
+</div>
+
+<h2>Neuvedené:</h2>
+
+<p><strong>{{ page.neuvedene }}</strong></p>
+
+<p><strong>{{ page.opis2 }}</strong></p>
+
+{% if page.title == 'Projekty' %}
+<h2>Môj súčasný rozvrh hodín:</h2>
+{% elsif page.title == 'Záujmy a koníčky' %}
+<h2>Moji priatelia zo strednej školy(4ever):</h2>
+{% endif %}
+<img src="{{ site.url }}{{ page.obrazok1 }}">

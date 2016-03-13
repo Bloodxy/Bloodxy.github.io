@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "O mne"
-obrazok: "/obrazky/ine/ja.jpg"
+title: "Niečo o mne"
+obrazok: "/obrazky/cestovanie/eifelovka.jpg"
 ---
 # {{ page.title }}
 
@@ -9,7 +9,6 @@ obrazok: "/obrazky/ine/ja.jpg"
 
 Volám sa Ivan Gulis. Mám 22 rokov a som z Bratislavy. Moja online prezývka je Bloody (alebo Bloodxy).
 Študujem na Slovenskej technickej univerzite, fakulta informatiky a informačných technológii, 6. semester.
-
 Mám jedného mladšieho brata Martina, ktorý je teraz v 4. semestri na STU. Je šikovnší a múdrejší ako ja.
 
 Som silný introvert žijúci hlavne vo virtuálnom svete, vášnivý počítačový hráč.
@@ -30,7 +29,6 @@ Hral som chvíľu na bubny, ale dlho som nevydržal a bubny predal.
 Mám rád jedlo, hlavne mäso, a rád varím. Zjem prakticky všetko jedlé.
 
 Milujem psy aj mačky ale mám fóbiu z hadov.
-
 Vo voľnom čase čítam japonskú mangu (komix), kde mám prečítaných cez 40 máng, čo tvorí pár desiatok tisíc strán.
 Čítam hlavne epické ságy s veľa postavami a ich backstory. Tiež by v nich malo byť násilie a akcia.
 Mojou obľúbenou mangou je Berserk, potom Claymore a Elfen Lied.

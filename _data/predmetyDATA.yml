@@ -1,0 +1,34 @@
+databazy:
+ kodPredmetu: DBS_B
+ pocetKreditov: 6 
+ skuskaBodov: 55
+ cviciaci: Ing. Martin Labaj
+ prednasajuci: Ing. Michal Barla, PhD.
+
+UI:
+ kodPredmetu: UI_B
+ pocetKreditov: 6 
+ skuskaBodov: 45
+ cviciaci: Ing. Michal Kompan, PhD.
+ prednasajuci: prof. Ing. Pavol Návrat, PhD.
+
+PKS:
+ kodPredmetu: PKS_B
+ pocetKreditov: 6 
+ skuskaBodov: 60
+ cviciaci: Ing. Richard Roštecký
+ prednasajuci: doc. Ing. Ivan Kotuliak, PhD.
+
+grafika:
+ kodPredmetu: PPGSO_B
+ pocetKreditov: 6 
+ skuskaBodov: 60
+ cviciaci: Ing. Peter Sokolík
+ prednasajuci: Ing. Peter Drahoš, PhD.
+
+WP:
+ kodPredmetu: WPUB_B
+ pocetKreditov: 6 
+ skuskaBodov: 60
+ cviciaci: Ing. Marián Šimko, PhD.
+ prednasajuci: 	doc. RNDr. Petr Šaloun, PhD.
