@@ -19,7 +19,3 @@ opis1: "Berserk je mojou najoblúbenejšou mangou, a jeho animovaná reprezentá
 opis2: "Claymore je príbehom čarodejníc, ktoré si vedia požičat silu démonov na boj so samotnými démonmi. Hlavnou hrdinkou je najslabšia čarodejnica Claire, ktorá má v sebe najsilnejšieho démona - jej priateľku. Naozaj skvelí príbeh a akcia. Anime adaptácia je trochu kratšia, ale oplatí sa pozrieť."
 opis3: "Elfen Lied rozpráva príbeh Dicloniusov - ľudí, ktorý majú chromozóm naviac, a dokázu ovládať neviditeľné ruky pripnuté na chbrte. Lucy, hlavná hrdinka, utečie z ústavu pre držanie dicloniusov, a chce sa všetkým pomstiť. Krv a násilie tu je na dennom poriadku, keďže neviditeľné ruky môžu byť ostré ako britvy."
 ---
-
-## Zopár mojich obľúbených videí k vyššie spomenutým anime *(zľava Berserk, Claymore, Elfen Lied)*:
-
-{% youtube iLMimcmxIdk %} {% youtube -eoZuF88quo %} {% youtube qtwYcHNNw6U %}
