@@ -6,15 +6,13 @@ pdf: "/dokumenty/zivotopis.pdf"
 
 # {{ page.title }}
 
-Stiahnuteľná verzia: [(stiahnuť PDF)]({{ site.url }}{{ page.pdf }})
-
 **Osobné údaje**
 
 |---|--:|
 | Meno a priezvisko | Ivan Gulis |
-| Adresa | Mierová 28 821 05 Bratislava |
-| Telefón | 0948976571 |
-| E-mail | gulis2505@gmail.com |
+| Adresa | x |
+| Telefón | x |
+| E-mail | x |
 | Dátum narodenia | 25.05.1993 |
 
 **Vzdelanie**
